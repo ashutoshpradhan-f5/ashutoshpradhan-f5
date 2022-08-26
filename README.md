@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ashutoshpradhan-f5
-- 👀 I’m interested in Technical Program Management
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on Documentation Topics
+
 
 
 <!---
